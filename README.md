@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Natanael997
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning , programação front-end.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , email :natan.wn@outlook.com
 
 <!---
